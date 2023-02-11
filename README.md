@@ -1,2 +1,2 @@
 # RepositorioHenry
-Este es mi primer ejercicio dejado por henry, crear un nuevo repositorio
+Solucion del ejercicio 5 del Prep Course de Henry
